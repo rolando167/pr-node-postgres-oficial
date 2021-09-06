@@ -1,0 +1,17 @@
+
+CRUD COMPLETO OFICIAL:  sequelize y Postgres, lee user creado en la DB y crea Cursos desde el backend.
+
+Revisar pasaos en json para mas informacion 2021.
+
+
+-------------quitar timestamp
+
+https://stackoverflow.com/questions/50977198/is-there-a-way-to-disable-timestamp-columns-globally-for-all-models
+
+
+------------- 🔴
+Al actualizar en Postgres, se va el registro a la ultma fila
+
+https://stackoverflow.com/questions/26619495/postgresql-row-number-changes-on-update
+
+-------------
