@@ -6,6 +6,7 @@ route.get('/', (req, res) =>{
 });
 
 route.use('/users', require('./UserRoute'));
+route.use('/courses', require('./CourseRoute'));
 
 
 module.exports = route;
